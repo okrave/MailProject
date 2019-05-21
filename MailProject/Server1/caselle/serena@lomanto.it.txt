@@ -1,0 +1,114 @@
+serena@lomanto.it;
+6;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+serena@lomanto.it;
+luca@lomanto.it;;
+R: asdasd;
+23/02/2018;
+asdasd
+In data 23/02/2018 luca@lomanto.it scrive a luca@lomanto.it;serena@lomanto.it;.
+Oggetto:asdasd
+Scrivi qua il corpo del messaggio!;
+1;
+5;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+luca@lomanto.it;
+luca@lomanto.it;serena@lomanto.it;;
+asdasd;
+23/02/2018;
+Scrivi qua il corpo del messaggio!;
+1;
+4;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+luca@lomanto.it;
+serena@lomanto.it;;
+R: Hola;
+23/02/2018;
+ok
+In data 23/02/2018 serena@lomanto.it scrive a luca@lomanto.it;.
+Oggetto:Hola
+Scrivi qua il corpo del messaggio!;
+1;
+3;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+serena@lomanto.it;
+giuseppe@lomanto.it;luca@lomanto.it;;
+R: EI;
+23/02/2018;
+asd
+In data 23/02/2018 giuseppe@lomanto.it scrive a serena@lomanto.it;luca@lomanto.it;.
+Oggetto:EI
+Scrivi qua il corpo del messaggio!;
+1;
+2;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+giuseppe@lomanto.it;
+serena@lomanto.it;luca@lomanto.it;;
+EI;
+23/02/2018;
+Scrivi qua il corpo del messaggio!;
+1;
+1;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+giuseppe@lomanto.it;
+serena@lomanto.it;luca@lomanto.it;;
+asd;
+23/02/2018;
+Scrivi qua il corpo del messaggio!;
+2;
+0;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+serena@lomanto.it;
+luca@lomanto.it;serena@lomanto.it;;
+ASD;
+23/02/2018;
+Scrivi qua il corpo del messaggio!;
+1;
+0;
+true;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+serena@lomanto.it;
+luca@lomanto.it;;
+Hola;
+23/02/2018;
+Scrivi qua il corpo del messaggio!;
+1;
+0;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+serena@lomanto.it;
+luca@lomanto.it;;
+Stage;
+23/02/2018;
+Scrivi qua il corpo del messaggio!;
+4;
+0;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+serena@lomanto.it;
+serena@lomanto.it;;
+R: Ciao;
+23/02/2018;
+Tutto bene
+
+In data 23/02/2018 serena@lomanto.it scrive a serena@lomanto.it;.
+Oggetto:Ciao
+Come stai;
+1;
+2;
+true;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+serena@lomanto.it;
+luca@lomanto.it;;
+Ciao;
+23/02/2018;
+Come stai?;
+1;
+1;
+false;

@@ -1,0 +1,62 @@
+luca@lomanto.it;
+0;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+serena@lomanto.it;
+luca@lomanto.it;;
+R: asdasd;
+23/02/2018;
+asdasd
+In data 23/02/2018 luca@lomanto.it scrive a luca@lomanto.it;serena@lomanto.it;.
+Oggetto:asdasd
+Scrivi qua il corpo del messaggio!;
+1;
+6;
+true;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+luca@lomanto.it;
+luca@lomanto.it;serena@lomanto.it;;
+asdasd;
+23/02/2018;
+Scrivi qua il corpo del messaggio!;
+1;
+5;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+luca@lomanto.it;
+serena@lomanto.it;;
+R: Hola;
+23/02/2018;
+ok
+In data 23/02/2018 serena@lomanto.it scrive a luca@lomanto.it;.
+Oggetto:Hola
+Scrivi qua il corpo del messaggio!;
+1;
+4;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+giuseppe@lomanto.it;
+luca@lomanto.it;;
+IMPORTANTE;
+23/02/2018;
+ASD;
+1;
+0;
+true;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+serena@lomanto.it;
+luca@lomanto.it;;
+Hola;
+23/02/2018;
+Scrivi qua il corpo del messaggio!;
+1;
+0;
+true;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+serena@lomanto.it;
+luca@lomanto.it;;
+Stage;
+23/02/2018;
+Scrivi qua il corpo del messaggio!;
+4;
+0;
+true;

@@ -1,0 +1,71 @@
+giuseppe@lomanto.it;
+0;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+serena@lomanto.it;
+giuseppe@lomanto.it;luca@lomanto.it;;
+R: EI;
+23/02/2018;
+asd
+In data 23/02/2018 giuseppe@lomanto.it scrive a serena@lomanto.it;luca@lomanto.it;.
+Oggetto:EI
+Scrivi qua il corpo del messaggio!;
+1;
+1;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+giuseppe@lomanto.it;
+serena@lomanto.it;luca@lomanto.it;;
+EI;
+23/02/2018;
+Scrivi qua il corpo del messaggio!;
+1;
+0;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+luca@lomanto.it;
+giuseppe@lomanto.it;serena@lomanto.it;;
+R: asd;
+23/02/2018;
+
+In data 23/02/2018 giuseppasde@lomanto.it scrive a serena@lomanto.it;luca@lomanto.it;.
+Oggetto:asd
+Scrivi qua il corpo del messaggio!;
+1;
+0;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+giuseppe@lomanto.it;
+luca@lomanto.it;;
+IMPORTANTE;
+23/02/2018;
+ASD;
+1;
+0;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+luca@lomanto.it;
+giuseppe@lomanto.it;serena@lomanto.it;;
+ELLA;
+21/02/2018;
+AEEEE;
+1;
+1;
+false;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+serena@lomanto.it;
+giuseppe@lomanto.it;luca@lomanto.it;;
+AAA;
+21/02/2018;
+Cercasi cuoco;
+1;
+1;
+true;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+giuseppe@lomanto.it;
+luca@lomanto.it;;
+asd;
+21/02/2018;
+asdasd;
+1;
+0;
+false;
